@@ -10,7 +10,6 @@
 
 //My solution
 function rentalCarCost(d) {
-  // Your solution here
   
   if (d >= 7 && d > 3){
     return (d*40)-50
